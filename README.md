@@ -4,17 +4,15 @@
 
 <p>Desenvolvedor Backend C#, com experiência em .Net, através da IDE Visulal Studio, programação orienta ao objeto, programação funcional. Experiência em desenvolver código em linguagem de programação, acompanhamento e desenvolvimento de novos sistemas, condução de pesquisa de novas tecnologias e analise técnica para implementação. Teste de API com Postman.</p>
 
-<h4>Gosto também de desenvolver em Ambiente Java com Spring Boot, algumas APIs.</h4>
+<h5>Gosto também de desenvolver em Ambiente Java com Spring Boot, algumas APIs.</h5>
 
 
 
-Capacidade de analise de dados em Python, com as bibliotecas pandas, numpy, matplotlib, plotly, seaborn, pandas e etc.
+<p>Capacidade de analise de dados em Python, com as bibliotecas pandas, numpy, matplotlib, plotly, seaborn, pandas e etc.</p>
 
-Gosto de ambiente dinâmico, colaborativo, com autonomia, foco em resultados e paixão por inovação e tecnologia;
+<p>Gosto de ambiente dinâmico, colaborativo, com autonomia, foco em resultados e paixão por inovação e tecnologia. Perfil analítico, boa comunicação e orientação a resultados, facilidade de aprender e prazer por ensinar.</p>
 
-Perfil analítico, boa comunicação e orientação a resultados, facilidade de aprender e prazer por ensinar.
-
-Nas horas vagas, gosto de ler ficção/fantasias, praticar exercícios e ter tempo de qualidade com a família.
+<p>Nas horas vagas, gosto de ler ficção/fantasias, praticar exercícios e ter tempo de qualidade com a família.</p>
 
 
 
