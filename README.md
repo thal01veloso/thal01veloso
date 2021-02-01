@@ -1,16 +1,26 @@
-### Hi there 👋
+Amante da Tecnologia, gosto sempre de aprender coisas novas e encarar novos desafios em minha carreira. Sou totalmente flexível e me adapto facilmente a novas mudanças e imprevistos.
 
-<!--
-**thal01veloso/thal01veloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Backend C#, com experiência em .Net, através da IDE Visulal Studio, programação orienta ao objeto, programação funcional. Experiência em desenvolver código em linguagem de programação, acompanhamento e desenvolvimento de novos sistemas, condução de pesquisa de novas tecnologias e analise técnica para implementação. Teste de API com Postman.
 
-Here are some ideas to get you started:
+Gosto também de desenvolver em Ambiente Java com Spring Boot, algumas APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Capacidade de analise de dados em Python, com as bibliotecas pandas, numpy, matplotlib, plotly, seaborn, pandas e etc.
+
+Gosto de ambiente dinâmico, colaborativo, com autonomia, foco em resultados e paixão por inovação e tecnologia;
+
+Perfil analítico, boa comunicação e orientação a resultados, facilidade de aprender e prazer por ensinar.
+
+Nas horas vagas, gosto de ler ficção/fantasias, praticar exercícios e ter tempo de qualidade com a família.
+
+
+
+
+
+Contato:
+E-mail: thal01veloso@gmail.com
+Cel: 021 9 8570 7010
+
+Links:
+https://www.youtube.com/user/tthhal01/
