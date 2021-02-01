@@ -1,6 +1,6 @@
 <h2> SOBRE MIM </h2><br>
 
-<hr sytle ="color: yellow">
+<hr sytle ="color: red;">
 <p>
   Amante da Tecnologia, gosto sempre de aprender coisas novas e encarar novos desafios em minha carreira. Sou totalmente flexível e me adapto facilmente a novas mudanças e       imprevistos.
 </p>
