@@ -1,6 +1,6 @@
 <h2> SOBRE MIM </h2><br>
 
-<hr sytle ="color: red;">
+
 <p>
   Amante da Tecnologia, gosto sempre de aprender coisas novas e encarar novos desafios em minha carreira. Sou totalmente flexível e me adapto facilmente a novas mudanças e       imprevistos.
 </p>
@@ -10,6 +10,7 @@
 <p>Nas horas vagas, gosto de ler ficção/fantasias, praticar exercícios e ter tempo de qualidade com a família.</p>
 
 
+![Thales's GitHub stats](https://github-readme-stats.vercel.app/api?username=thal01veloso&show_icons=true&theme=radical)
 
 
 
