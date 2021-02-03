@@ -9,7 +9,7 @@
 
 ![Thales's GitHub stats](https://github-readme-stats.vercel.app/api?username=thal01veloso&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username=thal01veloso&layout=compact)](https://github.com/thal01veloso/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thal01veloso&layout=compact)](https://github.com/thal01veloso/github-readme-stats)
 
 
 
